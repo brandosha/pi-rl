@@ -1,0 +1,22 @@
+{
+  "name": "pi-rl",
+  "version": "0.0.1",
+  "description": "Reinforcement learning for Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandosha/pi-rl.git"
+  },
+  "author": "Brandon Lantz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/brandosha/pi-rl/issues"
+  },
+  "homepage": "https://github.com/brandosha/pi-rl#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.5.1"
+  }
+}
