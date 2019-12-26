@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/brandosha/pi-rl#readme",
   "dependencies": {
-    "@tensorflow/tfjs-node": "^1.5.1"
+    "@tensorflow/tfjs": "^1.5.1"
   }
 }
